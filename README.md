@@ -36,14 +36,14 @@ Learning to play the piano without any formal instruction can seem like a daunti
 - Focus on rhythm and clarity
 
 6. Practice Basic Chords
--Chords are simultaneous notes played with a single hand that are essential for creating harmony
--Start with basic chords like C Major, G Major or F Major
--Focus on transistioning between different chords smoothly with both hands
+- Chords are simultaneous notes played with a single hand that are essential for creating harmony
+- Start with basic chords like C Major, G Major or F Major
+- Focus on transistioning between different chords smoothly with both hands
 
 7. Improving Rhythm and Timing
--Rhythm is essential to muscial performance
--Practicing with a metronome to keep time can help you develop your internal clock
--Practice playing the same simple song at different tempos
+- Rhythm is essential to muscial performance
+- Practicing with a metronome to keep time can help you develop your internal clock
+- Practice playing the same simple song at different tempos
 
 8. Developing Dynamics and Musical Expression
 - Playing dynamics involves the volume and intonation of a particular note or phrase in different ways
@@ -52,10 +52,10 @@ Learning to play the piano without any formal instruction can seem like a daunti
 - Try altering the style of a simple song and experiment at adding musicality based on your personal interpretation
 
 9. Practice and Patience
--Consistency is critical
--Setting aside short practice sessions (30 m - 1 h) daily can help with retention and growth
--Progressively increase the complexity of the pieces you play
--Choose from a diverse range of genres and styles
+- Consistency is critical
+- Setting aside short practice sessions (30 m - 1 h) daily can help with retention and growth
+- Progressively increase the complexity of the pieces you play
+- Choose from a diverse range of genres and styles
 
 ## Have FUN!
 
