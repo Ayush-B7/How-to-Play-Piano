@@ -24,16 +24,16 @@ Learning to play the piano without any formal instruction can seem like a daunti
 - Continue practicing until you are able to easily correlate a written note on a score to the appropiate key on the piano
 
 4. Learn and Practice Basic Scales
--Scales are musical patterns based on corresponding sounds in certain "keys" (Major or Minor)
--Start with the C Major Scale: C-D-E-F-G-A-B-C
--Play slowly and focus on sound, clarity and rhythm
--Practice on both hands individually before using both to build coordination and finger strength
--Progress to more complicated major scale and then minor scales
+- Scales are musical patterns based on corresponding sounds in certain "keys" (Major or Minor)
+- Start with the C Major Scale: C-D-E-F-G-A-B-C
+- Play slowly and focus on sound, clarity and rhythm
+- Practice on both hands individually before using both to build coordination and finger strength
+- Progress to more complicated major scale and then minor scales
 
 5.Play Simple Songs using One Hand
--Simple songs such as "Twinkle, Twinkle, Little Star" or "Hot Cross Buns" can be played on one hand 
--Get access to the scores (sheet music) online and begin practicing
--Focus on rhythm and clarity
+- Simple songs such as "Twinkle, Twinkle, Little Star" or "Hot Cross Buns" can be played on one hand 
+- Get access to the scores (sheet music) online and begin practicing
+- Focus on rhythm and clarity
 
 6. Practice Basic Chords
 -Chords are simultaneous notes played with a single hand that are essential for creating harmony
