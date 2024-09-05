@@ -6,7 +6,7 @@ Learning to play the piano without any formal instruction can seem like a daunti
 
 ## Steps
 
-1. Familarize youself with the Keyboard Layout
+1. Familarize yourself with the Keyboard Layout
 - There are a total of 88 keys (black and white)
 - White keys represent natural notes while black keys represent sharps and flats
 - Start by identifying the pattern of the keys to learn the notes (C-B)
