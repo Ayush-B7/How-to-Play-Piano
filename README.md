@@ -41,7 +41,7 @@ Learning to play the piano without any formal instruction can seem like a daunti
 - Focus on transistioning between different chords smoothly with both hands
 
 7. Improving Rhythm and Timing
-- Rhythm is essential to muscial performance
+- Rhythm is essential to musical performance
 - Practicing with a metronome to keep time can help you develop your internal clock
 - Practice playing the same simple song at different tempos
 
