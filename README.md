@@ -1,7 +1,7 @@
 # How to Play Piano
 ## Introduction
 
-Learning to play the piano without any formal instruction can seem like a daunting challenge. However, with time and practice, it can turn into a fun and full-filling past time that encourages creativity and personal growth. The piano provides an outlet for emotional expression while also stimulating cognitive development and building fine motor skills. Let's begin!
+Learning to play the piano without any formal instruction can seem like a daunting challenge. However, with time and practice, it can turn into a fun and fullfilling past time that encourages creativity and personal growth. The piano provides an outlet for emotional expression while also stimulating cognitive development and building fine motor skills. Let's begin!
 ### WARNING: Time and Dedication required!
 
 ## Steps
@@ -9,13 +9,13 @@ Learning to play the piano without any formal instruction can seem like a daunti
 1. Familarize youself with the Keyboard Layout
 - There are a total of 88 keys (black and white)
 - White keys represent natural notes while black keys represent sharps and flats
-- Start by identifying the pattern of the keys to learn the notes(C-F)
+- Start by identifying the pattern of the keys to learn the notes (C-B)
 
 
 2. Learn Proper Hand Position
 - Curl your fingers above the piano like you are holding a tennis ball in your palm (arched fingers)
 - Your right thumb starts at middle C
-- Become comfortable finding middle C aquickly and recognizing the adjacent notes
+- Become comfortable finding middle C quickly and recognizing the adjacent notes
 
 3. Understand basic Music Notation
 - The staff consists of 5 lines and 4 spaces, sequentially indicating a different note from A-G
@@ -28,9 +28,9 @@ Learning to play the piano without any formal instruction can seem like a daunti
 - Start with the C Major Scale: C-D-E-F-G-A-B-C
 - Play slowly and focus on sound, clarity and rhythm
 - Practice on both hands individually before using both to build coordination and finger strength
-- Progress to more complicated major scale and then minor scales
+- Progress to more complicated major scales and then minor scales
 
-5.Play Simple Songs using One Hand
+5. Play Simple Songs using One Hand
 - Simple songs such as "Twinkle, Twinkle, Little Star" or "Hot Cross Buns" can be played on one hand 
 - Get access to the scores (sheet music) online and begin practicing
 - Focus on rhythm and clarity
